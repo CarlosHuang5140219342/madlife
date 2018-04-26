@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="madlife-api_main" target="1.8" />
+      <module name="madlife-api_test" target="1.8" />
+      <module name="madlife-contract_main" target="1.8" />
+      <module name="madlife-contract_test" target="1.8" />
+      <module name="madlife-query_main" target="1.8" />
+      <module name="madlife-query_test" target="1.8" />
+      <module name="madlife_main" target="1.8" />
+      <module name="madlife_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

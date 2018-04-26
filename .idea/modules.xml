@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1722600339/madlife.iml" filepath="$PROJECT_DIR$/.idea/modules/-1722600339/madlife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madlife-api.iml" filepath="$PROJECT_DIR$/.idea/modules/madlife-api.iml" group="madlife-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madlife-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/madlife-api_main.iml" group="madlife-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madlife-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/madlife-api_test.iml" group="madlife-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract.iml" filepath="$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract.iml" group="madlife-contract" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract_main.iml" group="madlife-contract" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1247620395/madlife-contract_test.iml" group="madlife-contract" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query.iml" filepath="$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query.iml" group="madlife-query" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query_main.iml" group="madlife-query" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1374722587/madlife-query_test.iml" group="madlife-query" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1722600339/madlife_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1722600339/madlife_main.iml" group="madlife" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1722600339/madlife_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1722600339/madlife_test.iml" group="madlife" />
+    </modules>
+  </component>
+</project>

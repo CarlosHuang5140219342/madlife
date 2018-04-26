@@ -1,0 +1,5 @@
+rootProject.name = 'madlife'
+include 'madlife-api'
+include 'madlife-contract'
+include 'madlife-query'
+include 'madlife-common'
