@@ -1,6 +1,8 @@
 package com.thesisdesign.madlife.contract.vo;
 
-public class EmailWithTagVO {
+import java.io.Serializable;
+
+public class EmailWithTagVO implements Serializable {
     private String id;
     private String tag;
 

@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d50b515-90b8-4e3a-b3a8-5d247ffb5ecb" name="Default" comment="" />
+    <list default="true" id="9d50b515-90b8-4e3a-b3a8-5d247ffb5ecb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/utils/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/build/classes/java/main/com/thesisdesign/madlife/api/ApplicationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/build/classes/java/main/com/thesisdesign/madlife/api/ApplicationContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/build/classes/java/main/com/thesisdesign/madlife/api/controller/EmailTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/build/classes/java/main/com/thesisdesign/madlife/api/controller/EmailTestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/build/resources/main/META-INF/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/build/resources/main/META-INF/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-common/build/classes/java/main/com/thesisdesign/madlife/common/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-common/build/classes/java/main/com/thesisdesign/madlife/common/HttpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-common/build/libs/madlife-common-1.0.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-common/build/libs/madlife-common-1.0.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/build/classes/java/main/com/thesisdesign/madlife/contract/vo/EmailWithTagVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/build/classes/java/main/com/thesisdesign/madlife/contract/vo/EmailWithTagVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/build/libs/madlife-contract-1.0.8-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/build/libs/madlife-contract-1.0.8-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/build/libs/madlife-contract.jar" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/build/libs/madlife-contract.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/build/tmp/publishMavenJavaPublicationToMavenRepository/com/thesisdesign/madlife-contract/maven-metadata-remote.xml" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/build/tmp/publishMavenJavaPublicationToMavenRepository/com/thesisdesign/madlife-contract/maven-metadata-remote.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/build/tmp/publishMavenJavaPublicationToMavenRepository/com/thesisdesign/madlife-contract/resolver-status.properties" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/build/tmp/publishMavenJavaPublicationToMavenRepository/com/thesisdesign/madlife-contract/resolver-status.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/EmailWithTagVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/EmailWithTagVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/build/classes/java/main/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/build/libs/madlife-query-1.0.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/build/libs/madlife-query-1.0.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/madlife-api/.gradle/" />
     <ignored path="$PROJECT_DIR$/madlife-api/build/" />
@@ -96,17 +128,8 @@
       <file leaf-file-name="EmailFilterServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmailFilterService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/EmailFilterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="196">
+              <caret line="38" column="73" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,33 +137,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleEmailVO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/SingleEmailVO.java">
+      <file leaf-file-name="Java2PythonServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/Java2PythonServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="291">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextExtractionServiceImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TextExtractionServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="9" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="645">
+              <caret line="43" column="73" lean-forward="true" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="118" selection-start-line="15" selection-start-column="118" selection-end-line="15" selection-end-column="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -148,20 +188,8 @@
       <file leaf-file-name="TestConrtroller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/TestConrtroller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmailTestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            <state relative-caret-position="-534">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,16 +201,28 @@
         <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="CommonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/utils/CommonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="55" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmailTestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -208,6 +248,9 @@
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1115,7 +1158,7 @@
       <map>
         <entry key="$PROJECT_DIR$" value="6094641602000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="679754354" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2342080443" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/madlife-api/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/madlife-api/build.gradle" value="3534374913" />
@@ -1364,24 +1407,25 @@
         <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/result/TextExtractionResult.java" />
         <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/request/TextExtractionRequest.java" />
         <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/vo/SinglePythonExtractVO.java" />
-        <option value="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java" />
         <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/Java2PythonService.java" />
         <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/Java2PythonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java" />
         <option value="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/TestConrtroller.java" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/request/TextExtractPythonRequest.java" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/result/TextExtractPytonResult.java" />
-        <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/ExtractInfoVO.java" />
-        <option value="$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/result/TextExtractionResult.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/SingleEmailVO.java" />
-        <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/EmailWithTagVO.java" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/EmailFilterService.java" />
         <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/request/EmailPythonRequest.java" />
-        <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/EmailWithTagVO.java" />
+        <option value="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java" />
+        <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java" />
+        <option value="$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/utils/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" />
         <option value="$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java" />
+        <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -1405,8 +1449,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1520,6 +1565,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.thesisdesign.madlife.common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="madlife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="madlife-common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.thesisdesign.madlife.common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
@@ -1652,11 +1707,47 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.6.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="log4j-slf4j-impl-2.6.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="log4j-slf4j-impl-2.6.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="log4j-slf4j-impl-2.6.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="log4j-slf4j-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="madlife-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.6.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="log4j-slf4j-impl-2.6.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1697,7 +1788,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.madlife:madlife-contract [publish]">
+  <component name="RunManager" selected="Gradle.madlife-api [bootRun]">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -1864,18 +1955,18 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43206856" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43190184" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32925338" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30235228" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.16867469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32587492" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.16867469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39902082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1896,17 +1987,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/TestConrtroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1932,9 +2012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1992,9 +2069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2035,20 +2109,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/DubboContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/Java2PythonService.java" />
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -2058,16 +2118,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/vo/SinglePythonExtractVO.java" />
-    <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/MadlifeCommonContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/MadlifeQueryContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2075,30 +2125,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/TextExtractionService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2109,57 +2139,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/Java2PythonServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/ExtractInfoVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/result/TextExtractionResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2167,40 +2150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-            <element signature="e#1300#1301#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2215,102 +2164,159 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/request/EmailPythonRequest.java" />
+    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/EmailFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/EmailWithTagVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/ExtractInfoVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="9" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/request/EmailPythonRequest.java" />
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/TestConrtroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/service/EmailFilterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/madlife-contract/src/main/java/com.thesisdesign.madlife.contract/vo/SingleEmailVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/DubboContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/MadlifeCommonContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="1620">
+          <caret line="108" column="68" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.6.2/71d6c56133e0548e07434add048d7a7a2db53512/log4j-slf4j-impl-2.6.2.jar!/META-INF/maven/org.apache.logging.log4j/log4j-slf4j-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/utils/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-common/src/main/java/com.thesisdesign.madlife.common/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/EmailTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/controller/TestConrtroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/java/com.thesisdesign.madlife.api/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/base/META-INF/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="118" selection-start-line="15" selection-start-column="118" selection-end-line="15" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/Java2PythonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/EmailFilterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="38" column="73" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlife-query/src/main/java/com/thesisdesign/madlife/query/service/impl/TextExtractionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="73" lean-forward="true" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

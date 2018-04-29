@@ -1,5 +1,6 @@
 package com.thesisdesign.madlife.api;
 
+import com.thesisdesign.madlife.common.utils.CommonUtils;
 import com.thesisdesign.madlife.query.MadlifeQueryContext;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -20,6 +21,6 @@ public class ApplicationContext implements EmbeddedServletContainerCustomizer {
 
     @Override
     public void customize(ConfigurableEmbeddedServletContainer container) {
-        container.setPort(10010);
+        container.setPort(CommonUtils.MADLIFE_PROJ_PORT);
     }
 }
